@@ -1,0 +1,7 @@
+SECRET_KEY = 'p9Bv<3Eid9%$i01'
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://admin:123456@localhost/stockman'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+JWT_SECRET_KEY = 'Dude!WhyShouldYouEncryptIt'
+JWT_BLACKLIST_ENABLED = True
+JWT_BLACKLIST_TOKEN_CHECKS = ['access', 'refresh']
+PROPAGATE_EXCEPTIONS = True

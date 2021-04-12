@@ -1,0 +1,11 @@
+flask
+flask_jwt_extended
+Flask-RESTful
+PyJWT
+Flask-SqlAlchemy
+SQLAlchemy
+Werkzeug
+flask-migrate
+passlib
+pymysql
+flask-migrate
