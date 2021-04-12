@@ -8,4 +8,6 @@ Werkzeug
 flask-migrate
 passlib
 pymysql
-flask-migrate
+APScheduler
+flask-socketio
+scrapy
